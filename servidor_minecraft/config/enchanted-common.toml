@@ -1,7 +1,7 @@
 
 ["Altar Options"]
-	altar_range = 16
 	altar_recharge_rate = 2.0
+	altar_range = 16
 
 ["Cauldron Options"]
 	#Allow incorrect items to spoil brew
@@ -12,10 +12,10 @@
 	kettle_item_spoil = true
 
 ["Poppet Options"]
-	#Enable the #enchanted:tool_poppet_whitelist tag
-	tool_poppet_whitelist = false
 	#Enable the #enchanted:armour_poppet_whitelist tag
 	armour_poppet_whitelist = false
+	#Enable the #enchanted:tool_poppet_whitelist tag
+	tool_poppet_whitelist = false
 
 ["Miscellaneous Options"]
 	#Disable totems of undying (to make poppets more useful)
