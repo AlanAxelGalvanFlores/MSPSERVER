@@ -24622,3 +24622,388 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Aug2025 21:00:19.748] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
 [30Aug2025 21:00:19.806] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
 [30Aug2025 21:00:19.813] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[30Aug2025 21:05:19.748] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[30Aug2025 21:05:19.806] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
+[30Aug2025 21:05:19.816] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[30Aug2025 21:10:19.748] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[30Aug2025 21:10:19.810] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
+[30Aug2025 21:10:19.818] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[30Aug2025 21:11:38.489] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 35 messages to dispatch.
+[30Aug2025 21:11:38.498] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 0
+[30Aug2025 21:11:38.548] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 1
+[30Aug2025 21:11:38.598] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 2
+[30Aug2025 21:11:38.614] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [cyclopscore, skyvillages, mowziesmobs, betterdungeons, humancompanions, jei, everlastingabilities, graveyard, libraryferret, dynamiclights, betternether, obscure_api, journeymap, citadel, alexsmobs, travelersbackpack, artifacts, yungsapi, ob_tooltips, waila, immersive_armors, carryon, watut, forge, dragonmounts, useless_sword, minecraft, undead_expansion, voicechat, morevillagers, bloodandmadness, morevanillalib, creativecore, unusualend, yungsbridges, curios, relics, patchouli, securitycraft, parcool, bettervillage, vanillahammers, tombstone, betterstrongholds, mtmechs, coroutil, architectury, ftblibrary, observerlib, cloth-config, nefdecomod, ob_core, fallingtree, enchanted, expandability, bettermineshafts, playerrevive, geckolib3, aquamirae]
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'nefdecomod:nefdecomod' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Version test of '3.4.0.5' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'undead_expansion:undead_expansion' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mtmechs:dismount' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'immersive_armors:main' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'unusualend:unusualend' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:channel' : Version test of '5.8.6' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1.0' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Version test of '1.0' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1.0' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '5.8.6' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[30Aug2025 21:11:38.615] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mtmechs:primary' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'ob_tooltips:ob_tooltips' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.15.6.24' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.10' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'obscure_api:obscure_api' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cyclopscore:channel_main' : Version test of '1.0.0' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'skyvillages:skyvillages' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'ob_core:ob_core' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dragonmounts:network' : Version test of '1.0' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'aquamirae:main' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'bloodandmadness:main' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'humancompanions:main' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-6.9.7' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'waila:networking' : Version test of '1.0.0' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'useless_sword:useless_sword' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'enchanted:main' : Version test of '1' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'everlastingabilities:channel_main' : Version test of '1.0.0' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[30Aug2025 21:11:38.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:38.617] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:38.647] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 3
+[30Aug2025 21:11:38.697] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 4
+[30Aug2025 21:11:38.747] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[30Aug2025 21:11:38.767] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[30Aug2025 21:11:38.767] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:38.767] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:38.792] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[30Aug2025 21:11:38.792] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:38.792] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:38.793] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[30Aug2025 21:11:38.793] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:38.793] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:38.797] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[30Aug2025 21:11:38.847] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 7
+[30Aug2025 21:11:38.897] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 8
+[30Aug2025 21:11:38.934] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[30Aug2025 21:11:38.935] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:38.935] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:38.936] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[30Aug2025 21:11:38.936] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:38.936] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:38.937] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[30Aug2025 21:11:38.937] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:38.937] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:38.948] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry enchanted:rite_types' to 'fml:handshake' sequence 9
+[30Aug2025 21:11:38.998] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry observerlib:matchable_structures' to 'fml:handshake' sequence 10
+[30Aug2025 21:11:39.003] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[30Aug2025 21:11:39.003] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.003] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.008] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[30Aug2025 21:11:39.008] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.008] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.048] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 11
+[30Aug2025 21:11:39.064] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[30Aug2025 21:11:39.065] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.065] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.098] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 12
+[30Aug2025 21:11:39.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[30Aug2025 21:11:39.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.147] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[30Aug2025 21:11:39.198] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 14
+[30Aug2025 21:11:39.202] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[30Aug2025 21:11:39.202] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.202] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.208] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[30Aug2025 21:11:39.208] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.208] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.247] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 15
+[30Aug2025 21:11:39.257] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[30Aug2025 21:11:39.257] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.257] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.297] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry observerlib:observer_providers' to 'fml:handshake' sequence 16
+[30Aug2025 21:11:39.321] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[30Aug2025 21:11:39.321] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.321] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.348] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 17
+[30Aug2025 21:11:39.364] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[30Aug2025 21:11:39.364] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.364] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.398] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 18
+[30Aug2025 21:11:39.409] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[30Aug2025 21:11:39.410] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.410] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.448] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[30Aug2025 21:11:39.458] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[30Aug2025 21:11:39.458] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.458] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.497] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry everlastingabilities:abilities' to 'fml:handshake' sequence 20
+[30Aug2025 21:11:39.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[30Aug2025 21:11:39.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.547] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 21
+[30Aug2025 21:11:39.557] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[30Aug2025 21:11:39.557] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.557] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.597] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry betternether:nether_biomes' to 'fml:handshake' sequence 22
+[30Aug2025 21:11:39.610] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[30Aug2025 21:11:39.610] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:39.610] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:39.647] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 23
+[30Aug2025 21:11:39.697] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config parcool-server.toml' to 'fml:handshake' sequence 24
+[30Aug2025 21:11:39.747] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 25
+[30Aug2025 21:11:39.797] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 26
+[30Aug2025 21:11:39.847] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config carryon-server.toml' to 'fml:handshake' sequence 27
+[30Aug2025 21:11:39.897] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config artifacts-server.toml' to 'fml:handshake' sequence 28
+[30Aug2025 21:11:39.947] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[30Aug2025 21:11:39.997] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config everlastingabilities-server.toml' to 'fml:handshake' sequence 30
+[30Aug2025 21:11:40.047] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config bloodandmadness-server.toml' to 'fml:handshake' sequence 31
+[30Aug2025 21:11:40.097] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config morevanillalib-server.toml' to 'fml:handshake' sequence 32
+[30Aug2025 21:11:40.148] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 33
+[30Aug2025 21:11:40.197] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 34
+[30Aug2025 21:11:41.308] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[30Aug2025 21:11:41.308] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.308] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.310] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[30Aug2025 21:11:41.310] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.310] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.312] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[30Aug2025 21:11:41.312] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.312] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.314] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[30Aug2025 21:11:41.314] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.314] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.314] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[30Aug2025 21:11:41.314] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.314] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.320] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[30Aug2025 21:11:41.320] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.320] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.325] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[30Aug2025 21:11:41.325] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.325] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.327] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[30Aug2025 21:11:41.328] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.328] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.331] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[30Aug2025 21:11:41.331] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.331] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.331] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[30Aug2025 21:11:41.331] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.331] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.333] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[30Aug2025 21:11:41.333] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.333] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.333] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[30Aug2025 21:11:41.333] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.333] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.333] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[30Aug2025 21:11:41.333] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[30Aug2025 21:11:41.334] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[30Aug2025 21:11:41.347] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[30Aug2025 21:11:41.420] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5fdd57f3
+[30Aug2025 21:11:41.434] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Axelito7u7[/127.48.36.85:40169] logged in with entity id 32793 at (-472.9251434225476, 46.0, -1095.038244878171)
+[30Aug2025 21:11:41.434] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@2dd5f5a4 into net.minecraft.network.NetworkManager@743d5602
+[30Aug2025 21:11:41.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 joined the game
+[30Aug2025 21:11:41.572] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1d0e8ab3
+[30Aug2025 21:11:41.595] [Server thread/INFO] [Waila/]: Syncing config to Axelito7u7 (41a70891-4194-3013-bc33-034cbfc37c20)
+[30Aug2025 21:11:41.604] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Axelito7u7: {disabled=false, disconnected=true, uuid=41a70891-4194-3013-bc33-034cbfc37c20, name=Axelito7u7, group=null}
+[30Aug2025 21:11:42.086] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Axelito7u7 (18)
+[30Aug2025 21:11:42.086] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Axelito7u7
+[30Aug2025 21:11:42.086] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Axelito7u7
+[30Aug2025 21:11:42.086] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Axelito7u7
+[30Aug2025 21:11:42.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Axelito7u7
+[30Aug2025 21:11:42.188] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 41a70891-4194-3013-bc33-034cbfc37c20 was loaded
+[30Aug2025 21:11:42.189] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Axelito7u7]
+[30Aug2025 21:11:42.189] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Axelito7u7]
+[30Aug2025 21:11:57.416] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[30Aug2025 21:11:57.417] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[30Aug2025 21:11:57.417] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[30Aug2025 21:11:57.417] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[30Aug2025 21:11:57.417] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[30Aug2025 21:11:57.417] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[30Aug2025 21:12:05.167] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[30Aug2025 21:12:05.167] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[30Aug2025 21:12:05.167] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[30Aug2025 21:12:05.167] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[30Aug2025 21:12:05.167] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[30Aug2025 21:12:05.167] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[30Aug2025 21:12:08.867] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[30Aug2025 21:12:08.867] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[30Aug2025 21:12:08.867] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[30Aug2025 21:12:08.867] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[30Aug2025 21:12:08.867] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[30Aug2025 21:12:08.867] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[30Aug2025 21:13:58.247] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Axelito7u7]
+[30Aug2025 21:13:58.247] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Axelito7u7]
+[30Aug2025 21:13:59.354] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.359] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.365] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.373] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.383] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.388] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.441] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.550] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.710] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.714] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.854] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.970] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.973] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:13:59.980] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.206] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.208] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.210] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.222] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.224] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.226] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.272] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.277] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.280] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.325] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.327] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.333] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.361] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.364] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.366] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.412] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.415] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.418] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.421] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.473] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.474] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.925] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.928] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:00.931] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:01.065] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:01.069] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:01.108] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:01.111] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:01.115] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:01.121] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.768] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.772] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.776] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.806] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.843] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.847] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.883] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.886] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.888] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.891] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.928] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.930] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.933] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.935] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.937] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.939] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.941] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.944] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.946] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.947] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.951] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.953] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:02.956] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:03.035] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:03.038] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:03.041] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:03.044] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:03.046] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:03.755] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:03.758] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:03.760] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:03.764] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:03.773] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.040] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.042] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.044] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.046] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.049] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.053] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.056] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.059] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.061] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.064] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.067] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.071] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.073] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.076] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.080] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.085] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.088] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:04.120] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.739] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.743] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.746] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.751] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.763] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.766] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.771] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.774] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.777] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.816] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:05.820] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:07.032] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:07.330] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:07.513] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:07.517] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:07.523] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.088] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.091] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.096] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.099] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.145] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.147] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.149] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.375] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.378] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.379] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.382] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.384] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.386] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.389] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.393] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.395] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.398] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.402] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.404] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.407] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.409] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:09.411] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:12.811] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:12.831] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:12.878] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:14.307] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
+[30Aug2025 21:14:14.320] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betternether:nether_city
