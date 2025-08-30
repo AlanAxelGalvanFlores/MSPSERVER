@@ -21448,3 +21448,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Aug2025 20:10:17.410] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 41a70891-4194-3013-bc33-034cbfc37c20 was unloaded
 [30Aug2025 20:10:17.414] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Axelito7u7
 [30Aug2025 20:10:19.754] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[30Aug2025 20:15:19.748] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[30Aug2025 20:20:19.748] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
