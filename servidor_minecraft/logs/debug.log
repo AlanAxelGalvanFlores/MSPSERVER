@@ -21378,3 +21378,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Aug2025 06:54:07.918] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
 [31Aug2025 06:54:07.918] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
 [31Aug2025 06:54:07.918] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 06:58:41.386] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[31Aug2025 06:58:41.595] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
+[31Aug2025 06:58:41.614] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[31Aug2025 07:03:41.385] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[31Aug2025 07:03:41.550] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
+[31Aug2025 07:03:41.562] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[31Aug2025 07:07:11.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[31Aug2025 07:07:11.216] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[31Aug2025 07:07:11.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Aug2025 07:07:11.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Aug2025 07:07:11.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Aug2025 07:07:11.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Inifinito]'/minecraft:overworld
+[31Aug2025 07:07:11.248] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[31Aug2025 07:07:11.831] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Aug2025 07:07:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Inifinito]'/minecraft:the_nether
+[31Aug2025 07:07:11.834] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Aug2025 07:07:11.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Inifinito]'/minecraft:the_end
+[31Aug2025 07:07:11.836] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Aug2025 07:07:11.836] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
+[31Aug2025 07:07:11.844] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[31Aug2025 07:07:11.867] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Aug2025 07:07:11.874] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Aug2025 07:07:11.874] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Aug2025 07:07:11.879] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[31Aug2025 07:07:11.879] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[31Aug2025 07:07:11.879] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file everlastingabilities-server.toml changed, sending notifies
+[31Aug2025 07:07:11.886] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies
