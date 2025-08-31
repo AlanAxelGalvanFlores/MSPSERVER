@@ -18206,3 +18206,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Aug2025 08:32:35.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 left the game
 [31Aug2025 08:32:35.190] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 41a70891-4194-3013-bc33-034cbfc37c20 was unloaded
 [31Aug2025 08:32:35.191] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Axelito7u7
+[31Aug2025 08:33:57.380] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[31Aug2025 08:38:57.380] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
