@@ -18184,3 +18184,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Aug2025 08:22:06.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 fell from a high place
 [31Aug2025 08:22:08.339] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Axelito7u7]
 [31Aug2025 08:22:08.340] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Axelito7u7]
+[31Aug2025 08:23:57.402] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[31Aug2025 08:28:57.399] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[31Aug2025 08:31:43.440] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Axelito7u7 was kicked for floating too long!
+[31Aug2025 08:31:43.489] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Axelito7u7 lost connection: Flying is not enabled on this server
+[31Aug2025 08:31:43.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 left the game
+[31Aug2025 08:31:43.490] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 41a70891-4194-3013-bc33-034cbfc37c20 was unloaded
+[31Aug2025 08:31:43.490] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Axelito7u7
+[31Aug2025 08:32:21.675] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4e4fd918
+[31Aug2025 08:32:21.699] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Axelito7u7[/127.48.36.85:37105] logged in with entity id 21106 at (13952.497535714556, 56.24918707874468, -1371.6286066138334)
+[31Aug2025 08:32:21.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 joined the game
+[31Aug2025 08:32:21.733] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@33902e5b
+[31Aug2025 08:32:21.740] [Server thread/INFO] [Waila/]: Syncing config to Axelito7u7 (41a70891-4194-3013-bc33-034cbfc37c20)
+[31Aug2025 08:32:22.251] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Axelito7u7 (18)
+[31Aug2025 08:32:22.252] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Axelito7u7
+[31Aug2025 08:32:22.253] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 41a70891-4194-3013-bc33-034cbfc37c20 was loaded
+[31Aug2025 08:32:22.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Axelito7u7]
+[31Aug2025 08:32:22.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Axelito7u7]
+[31Aug2025 08:32:35.140] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Axelito7u7 was kicked for floating too long!
+[31Aug2025 08:32:35.190] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Axelito7u7 lost connection: Flying is not enabled on this server
+[31Aug2025 08:32:35.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 left the game
+[31Aug2025 08:32:35.190] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 41a70891-4194-3013-bc33-034cbfc37c20 was unloaded
+[31Aug2025 08:32:35.191] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Axelito7u7
