@@ -17884,3 +17884,303 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Aug2025 08:04:10.653] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Axelito7u7]
 [31Aug2025 08:04:44.104] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Axelito7u7 moved too quickly! 9.967280055823721,-1.252203340253729,-0.8586189413524608
 [31Aug2025 08:08:57.514] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[31Aug2025 08:13:57.420] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[31Aug2025 08:17:39.742] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Axelito7u7 lost connection: Timed out
+[31Aug2025 08:17:39.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 left the game
+[31Aug2025 08:17:39.744] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 41a70891-4194-3013-bc33-034cbfc37c20 was unloaded
+[31Aug2025 08:17:39.748] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Axelito7u7
+[31Aug2025 08:17:39.796] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[31Aug2025 08:18:02.999] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2ff50e7
+[31Aug2025 08:18:03.018] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Axelito7u7[/127.48.36.85:59929] logged in with entity id 16177 at (13947.921259047738, 53.0, -1370.466789887405)
+[31Aug2025 08:18:03.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 joined the game
+[31Aug2025 08:18:03.087] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@24f09486
+[31Aug2025 08:18:03.106] [Server thread/INFO] [Waila/]: Syncing config to Axelito7u7 (41a70891-4194-3013-bc33-034cbfc37c20)
+[31Aug2025 08:18:03.927] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Axelito7u7 (18)
+[31Aug2025 08:18:03.928] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Axelito7u7
+[31Aug2025 08:18:03.955] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 41a70891-4194-3013-bc33-034cbfc37c20 was loaded
+[31Aug2025 08:18:03.956] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Axelito7u7]
+[31Aug2025 08:18:03.956] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Axelito7u7]
+[31Aug2025 08:18:10.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 is bleeding...
+[31Aug2025 08:18:10.254] [Server thread/WARN] [tombstone/]: The death event of the player Axelito7u7 was canceled by another mod
+[31Aug2025 08:18:10.277] [Server thread/INFO] [tombstone/]: The player Axelito7u7 has successfully been saved
+[31Aug2025 08:18:17.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 was slain by Silverfish
+[31Aug2025 08:18:20.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Axelito7u7]
+[31Aug2025 08:18:20.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Axelito7u7]
+[31Aug2025 08:18:22.428] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.430] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.431] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.431] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.431] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.431] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.433] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.433] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.434] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.434] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.435] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.435] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.437] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.437] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.437] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.437] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.437] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.437] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.439] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.439] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.439] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.439] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.439] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.439] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.448] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.448] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.451] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.451] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.452] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.453] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.485] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.487] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.487] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.487] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.487] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.487] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.490] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.580] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.580] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.581] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.581] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.581] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.581] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.583] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.584] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.584] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.585] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.586] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.586] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.587] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.588] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.588] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.588] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.589] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.589] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.590] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.590] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.591] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.591] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.591] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.591] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.663] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.664] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.664] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.664] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.664] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.665] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.670] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.670] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.670] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.670] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.670] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.670] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.676] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.678] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.678] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.679] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.679] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.679] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.684] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.684] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.684] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.685] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.685] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.685] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.689] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.690] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.690] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.690] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.691] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.691] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.694] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.697] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.701] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.702] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.703] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.704] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.705] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.706] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.747] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.753] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.755] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.757] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.757] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.758] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.760] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.765] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.765] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.766] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.767] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.768] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.769] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.774] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.774] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.774] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.774] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.774] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.775] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.777] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.778] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.778] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.779] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.781] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.782] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.791] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.792] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.792] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.792] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.793] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.794] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.851] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.851] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.852] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.854] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.854] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.854] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.861] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.862] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.863] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.865] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.865] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.866] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.869] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.870] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.871] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.871] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.872] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.872] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.875] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.875] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.875] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.876] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.876] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.876] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.879] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.879] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.880] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.880] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.881] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.881] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.883] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.884] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.885] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.885] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.886] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.886] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.887] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.888] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.888] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.889] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.889] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.889] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.891] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.891] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.891] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.891] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.892] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.892] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.894] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.894] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.894] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.895] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.895] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.895] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.897] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.897] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.898] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.898] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.898] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.899] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.923] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.923] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.923] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.925] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.925] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.925] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.927] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.927] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.928] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.928] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.928] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.929] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.930] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.931] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.931] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.931] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.932] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.932] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.934] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.934] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.935] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.935] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.935] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.936] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:22.939] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:22.939] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:22.940] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:22.940] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:22.940] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:22.941] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:23.026] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:23.026] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:23.026] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:23.026] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:23.026] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:23.026] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:23.033] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:23.034] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:23.034] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:23.035] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:23.035] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:23.035] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:23.470] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:23.470] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:23.470] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:23.471] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:23.471] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:23.471] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:23.472] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:23.473] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:23.473] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:23.473] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:23.473] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:23.474] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:23.476] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:23.476] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:23.477] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:23.477] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:23.477] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:23.478] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:23.528] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:23.529] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:23.529] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:23.532] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:23.532] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:23.532] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:23.533] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:18:23.534] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:18:23.534] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:18:23.534] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:18:23.534] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:18:23.534] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:18:57.412] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[31Aug2025 08:19:17.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Axelito7u7> home
+[31Aug2025 08:20:03.025] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:zombie_dungeon
+[31Aug2025 08:20:03.025] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:skeleton_dungeon
+[31Aug2025 08:20:03.025] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: bettermineshafts:bettermineshaft
+[31Aug2025 08:20:03.025] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:small_dungeon
+[31Aug2025 08:20:03.026] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterdungeons:spider_dungeon
+[31Aug2025 08:20:03.026] [Server thread/ERROR] [net.minecraft.world.chunk.storage.ChunkSerializer/]: Unknown structure start: betterstrongholds:stronghold
+[31Aug2025 08:20:51.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 has made the advancement [The Most Useful Key]
+[31Aug2025 08:21:00.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 has reached the goal [A Fast Comeback]
+[31Aug2025 08:21:48.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 is bleeding...
+[31Aug2025 08:21:48.351] [Server thread/WARN] [tombstone/]: The death event of the player Axelito7u7 was canceled by another mod
+[31Aug2025 08:21:48.356] [Server thread/INFO] [tombstone/]: The player Axelito7u7 has successfully been saved
+[31Aug2025 08:22:06.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Axelito7u7 fell from a high place
+[31Aug2025 08:22:08.339] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Axelito7u7]
+[31Aug2025 08:22:08.340] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Axelito7u7]
