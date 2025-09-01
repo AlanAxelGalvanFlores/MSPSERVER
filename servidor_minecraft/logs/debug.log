@@ -20720,3 +20720,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Sep2025 20:06:57.657] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
 [01Sep2025 20:06:57.683] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
 [01Sep2025 20:06:57.690] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[01Sep2025 20:11:57.657] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[01Sep2025 20:11:57.692] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
+[01Sep2025 20:11:57.704] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[01Sep2025 20:16:57.657] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[01Sep2025 20:16:57.691] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
+[01Sep2025 20:16:57.700] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
