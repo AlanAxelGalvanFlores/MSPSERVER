@@ -20732,3 +20732,137 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Sep2025 20:26:57.657] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
 [01Sep2025 20:26:57.698] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
 [01Sep2025 20:26:57.710] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[01Sep2025 20:31:57.657] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[01Sep2025 20:31:57.695] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
+[01Sep2025 20:31:57.703] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[01Sep2025 20:36:57.658] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[01Sep2025 20:36:57.687] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Inifinito
+[01Sep2025 20:36:57.700] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Inifinito
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'nefdecomod:nefdecomod' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'undead_expansion:undead_expansion' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mtmechs:dismount' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'immersive_armors:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'unusualend:unusualend' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:channel' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mtmechs:primary' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.153] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'ob_tooltips:ob_tooltips' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'obscure_api:obscure_api' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cyclopscore:channel_main' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'skyvillages:skyvillages' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'ob_core:ob_core' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dragonmounts:network' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'aquamirae:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'bloodandmadness:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'humancompanions:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'waila:networking' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'useless_sword:useless_sword' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'enchanted:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'everlastingabilities:channel_main' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:38:07.154] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [watut:main,nefdecomod:nefdecomod,parcool:message,undead_expansion:undead_expansion,mtmechs:dismount,immersive_armors:main,unusualend:unusualend,alexsmobs:main_channel,playerrevive:main,mowziesmobs:net,creativecore:main,mtmechs:primary,ob_tooltips:ob_tooltips,carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,obscure_api:obscure_api,curios:main,skyvillages:skyvillages,ob_core:ob_core,dragonmounts:network,aquamirae:main,bloodandmadness:main,humancompanions:main,tombstone:tombstone_channel,patchouli:main,artifacts:main,useless_sword:useless_sword,geckolib3:main,enchanted:main] rejected vanilla connections
+[01Sep2025 20:38:07.155] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[01Sep2025 20:39:37.939] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'nefdecomod:nefdecomod' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'undead_expansion:undead_expansion' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mtmechs:dismount' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'immersive_armors:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'unusualend:unusualend' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:channel' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mtmechs:primary' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'ob_tooltips:ob_tooltips' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'obscure_api:obscure_api' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'cyclopscore:channel_main' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'skyvillages:skyvillages' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'ob_core:ob_core' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dragonmounts:network' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'aquamirae:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'bloodandmadness:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'humancompanions:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.940] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.941] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.941] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.941] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'waila:networking' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.941] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'useless_sword:useless_sword' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.941] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.941] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'enchanted:main' : Vanilla acceptance test: REJECTED
+[01Sep2025 20:39:37.941] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'everlastingabilities:channel_main' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.941] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[01Sep2025 20:39:37.941] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [watut:main,nefdecomod:nefdecomod,parcool:message,undead_expansion:undead_expansion,mtmechs:dismount,immersive_armors:main,unusualend:unusualend,alexsmobs:main_channel,playerrevive:main,mowziesmobs:net,creativecore:main,mtmechs:primary,ob_tooltips:ob_tooltips,carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,obscure_api:obscure_api,curios:main,skyvillages:skyvillages,ob_core:ob_core,dragonmounts:network,aquamirae:main,bloodandmadness:main,humancompanions:main,tombstone:tombstone_channel,patchouli:main,artifacts:main,useless_sword:useless_sword,geckolib3:main,enchanted:main] rejected vanilla connections
+[01Sep2025 20:39:37.941] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
