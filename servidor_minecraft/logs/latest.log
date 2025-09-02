@@ -17871,3 +17871,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Sep2025 06:04:16.077] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 34282
 [02Sep2025 06:04:16.093] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Loaded active rites successfully
 [02Sep2025 06:09:16.017] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[02Sep2025 06:14:16.017] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
+[02Sep2025 06:19:16.017] [Server thread/INFO] [com.favouriteless.enchanted.Enchanted/]: Saved active rites successfully
